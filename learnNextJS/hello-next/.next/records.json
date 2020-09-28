@@ -1,0 +1,39 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/2AxrEvx4F_t5T2diaegnY/pages/_app.js": 2,
+      "static/2AxrEvx4F_t5T2diaegnY/pages/_error.js": 3,
+      "static/2AxrEvx4F_t5T2diaegnY/pages/about.js": 4,
+      "static/2AxrEvx4F_t5T2diaegnY/pages/index.js": 5,
+      "static/2AxrEvx4F_t5T2diaegnY/pages/p/[id].js": 6,
+      "static/2AxrEvx4F_t5T2diaegnY/pages/post.js": 7,
+      "static/runtime/main.js": 8,
+      "static/runtime/polyfills.js": 9,
+      "static/JT3WBRU1-FTKcKYrThquw/pages/_app.js": 10,
+      "static/JT3WBRU1-FTKcKYrThquw/pages/_error.js": 11,
+      "static/JT3WBRU1-FTKcKYrThquw/pages/about.js": 12,
+      "static/JT3WBRU1-FTKcKYrThquw/pages/index.js": 13,
+      "static/JT3WBRU1-FTKcKYrThquw/pages/p/[id].js": 14,
+      "static/JT3WBRU1-FTKcKYrThquw/pages/post.js": 15
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      8,
+      9
+    ]
+  }
+}
